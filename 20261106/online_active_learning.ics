@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Swimmy//Online Active Learning//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:swimmy-online-active-learning-20261107@swimmy-school.jp
+DTSTAMP:20261106T000000Z
+DTSTART:20261107T083000Z
+DTEND:20261107T090000Z
+SUMMARY:【Swimmy】オンラインアクティブラーニング
+LOCATION:オンライン（Zoom）
+DESCRIPTION:世界遺産たんけん隊・タイピング大会\nZoomには
+ 、案内メールの「Zoomへの入室はこちら」ボタンからご
+ 入室ください。\n表示名には所属校舎名・ニックネーム
+ を入れてください。\nタイピングを実施するため、キー
+ ボードをご用意ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:まもなくオンラインアクティブラーニングが始
+ まります
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:swimmy-online-active-learning-20261108@swimmy-school.jp
+DTSTAMP:20261106T000000Z
+DTSTART:20261108T083000Z
+DTEND:20261108T090000Z
+SUMMARY:【Swimmy】オンラインアクティブラーニング
+LOCATION:オンライン（Zoom）
+DESCRIPTION:世界遺産たんけん隊・タイピング大会\nZoomには
+ 、案内メールの「Zoomへの入室はこちら」ボタンからご
+ 入室ください。\n表示名には所属校舎名・ニックネーム
+ を入れてください。\nタイピングを実施するため、キー
+ ボードをご用意ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:まもなくオンラインアクティブラーニングが始
+ まります
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
